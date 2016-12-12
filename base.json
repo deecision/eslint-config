@@ -1,7 +1,14 @@
 {
+  "env": {
+    "jest": true
+  },
   "extends": [
     "plugin:flowtype/recommended",
     "airbnb-base"
+  ],
+  "plugins": [
+    "flowtype",
+    "import"
   ],
   "rules": {
     "array-bracket-spacing": [

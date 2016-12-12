@@ -1,6 +1,6 @@
 {
   "name": "@deecision/eslint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Deecision's eslint configuration",
   "repository": {
     "url": "git@github.com:deecision/javascript.git",
