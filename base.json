@@ -1,0 +1,36 @@
+{
+  "extends": [
+    "plugin:flowtype/recommended",
+    "airbnb-base"
+  ],
+  "rules": {
+    "array-bracket-spacing": [
+      "error",
+      "always"
+    ],
+    "computed-property-spacing": [
+      "error",
+      "always"
+    ],
+    "space-unary-ops": [
+      "error",
+      {
+        "words": true,
+        "nonwords": true
+      }
+    ],
+    "space-before-function-paren": [
+      "error",
+      "always"
+    ],
+    "max-len": [
+      "error",
+      120
+    ],
+    "indent": [
+      "error",
+      4
+    ],
+    "no-prototype-builtins": 0
+  }
+}

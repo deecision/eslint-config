@@ -1,0 +1,17 @@
+{
+  "name": "@deecision/eslint-config",
+  "version": "0.1.0",
+  "description": "Deecision's eslint configuration",
+  "repository": {
+    "url": "git@github.com:deecision/javascript.git",
+    "type": "git"
+  },
+  "author": "Jean-François Simon <contact@jfsimon.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint-config-airbnb-base": "^11.0.0",
+    "eslint-plugin-flowtype": "^2.29.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
